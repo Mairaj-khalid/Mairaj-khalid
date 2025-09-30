@@ -42,6 +42,11 @@
 - *Objective:* Create an *LMS* for User friendly  and scalable 
 
 ---
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mairaj-khalid&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mairaj-khalid&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
 
 
 
